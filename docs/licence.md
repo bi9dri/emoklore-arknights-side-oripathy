@@ -22,4 +22,5 @@ https://bsky.app/profile/bidri.bsky.social
 https://x.com/bidri__
 
 2025/5/11: 作成
+
 © 2025 びどり
