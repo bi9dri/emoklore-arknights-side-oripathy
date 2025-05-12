@@ -28,7 +28,7 @@ export default function Home(): ReactNode {
             <Link
               className="button button--secondary button--lg"
               to="/converter">
-              キャラクターをコンバーターする
+              キャラクターをコンバートする
             </Link>
           </div>
         </div>
