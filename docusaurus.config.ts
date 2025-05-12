@@ -50,16 +50,21 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'アークナイツ×エモクロアTRPG サイド・オリパシー',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'rulesSidebar',
           position: 'left',
           label: 'ルール',
+        },
+        {
+          href: '/converter',
+          position: 'left',
+          label: 'コンバーター',
         },
         {
           href: 'https://github.com/bi9dri/emoklore-arknights-side-oripathy',

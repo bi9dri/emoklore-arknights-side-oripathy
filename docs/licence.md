@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ![ダイスタス・コモンズ](/img/dicetous_commons.png)
 
-- 表示：必要（追加ルール作者：びどり https://bsky.app/profile/bidri.bsky.social）
+- 表示：必要（追加ルール作者：びどり https://bsky.app/profile/bidri.bsky.social ）
 - 改変：許可
 - 公演：許可（収益化OK）
 - <u>**営利：不可**</u>
