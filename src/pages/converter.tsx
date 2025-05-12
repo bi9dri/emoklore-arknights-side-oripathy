@@ -9,7 +9,7 @@ export default function Converter(): ReactNode {
       title={`コンバーター | ${siteConfig.title}`}
       description="アークナイツ×エモクロアTRPG サイド・オリパシー コンバーター">
       <main>
-        
+        工事中...
       </main>
     </Layout>
   );
