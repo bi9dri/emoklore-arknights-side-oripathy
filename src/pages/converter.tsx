@@ -62,9 +62,12 @@ const convertCcfolia = (text: string): string => {
   }
   srcParams['生理的耐性'] = srcParams['身体'] + srcParams['運勢'];
 
-  const params = {};
+  const params = [];
   for (const param in srcParams) {
-    params[param] = srcParams[param].toString();
+    params.push({
+      label: param,
+      value: srcParams[param].toString(),
+    });
   }
 
   const status = [];
