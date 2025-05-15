@@ -19,7 +19,7 @@ sidebar_position: 2
 
 作者：びどり  
 https://bsky.app/profile/bidri.bsky.social  
-https://x.com/bidri__
+[https://x.com/bidri__](https://x.com/bidri__)
 
 2025/5/11: 作成
 
