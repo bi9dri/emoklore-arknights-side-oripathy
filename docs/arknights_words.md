@@ -4,67 +4,16 @@ sidebar_position: 4
 
 # アークナイツの世界観・用語
 
-　アークナイツは、様々な歴史上の出来事、神話、伝承などをモチーフに、それらやオリジナルの要素を組み合わせた、独特で深い世界観を描いています。
-
-<details>
-<summary>ゲーム内の固有名詞とモチーフ（非公式の考察を含む）</summary>
-
-|固有名詞|モチーフ（と考えられるもの）|
-|:--|:--|
-|ウルサス|ロシア帝国|
-|炎国|中国（殷、唐、宋、清）|
-|龍門|香港|
-|ロドス・アイランド|聖ヨハネ騎士団（ロドス騎士団）|
-|ヴィクトリア|イングランド王国、アーサー王伝説、赤い竜（ウェールズの伝承）、スコットランド王国、アイルランド|
-|リターニア|ドイツ帝国|
-|レム・ビリトン|オーストラリア|
-|クルビア|アメリカ合衆国|
-|カジミエーシュ|ポーランド・リトアニア共和国、ブルジョワジー|
-|ラテラーノ|バチカン市国、キリスト教|
-|イベリア|イベリア半島、スペイン帝国|
-|シエスタ|サンレモ|
-|サルゴン|ペルシア帝国、古代エジプト、古代メソポタミア|
-|極東|日本（南北朝時代）|
-|サルカズ|ユダヤ人、ヘブライ人|
-|コシチェイ|スラヴ神話|
-|海の怪物|クトゥルフ神話、海の民|
-|諸王の王（シャア）|アッカド帝国、ペルシア帝国、アレクサンドロス大王|
-
-</details>
-
-　この追加ルールでは年号に触れることがありますが、これは原作ゲームにおける暦です。<b>テラ歴</b>と呼ばれるこの年号は、追加ルール内の処理に影響することはないフレーバー情報です。  
-　また、アークナイツには、多くの種族・陣営が登場します。この追加ルール内ですべてを説明することはできませんが、興味があれば公式の世界観説明動画などを見てみるといいでしょう。
+　アークナイツは、世界中の様々な歴史上の出来事、神話、伝承などをモチーフに、それらやオリジナルの要素を組み合わせた、独特で深い世界観を描いています。  
+　また、多くの種族・陣営が登場します。この追加ルール内ですべてを説明することはできませんが、興味があれば公式の世界観説明動画などを見てみるのもオススメです。
 
 <details>
 <summary>公式の動画</summary>
 
-|動画|内容|
-|--|-- |
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/yP91VOoBoJU?si=hzGVriK5hIDGef3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|現代国家情勢「ウルサス」「龍門（炎国）」「リターニア」「サルゴン」「シエスタ」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/dTt6sU00jxI?si=kjqTEluGwzHk2HdO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|現代国家情勢「ヴィクトリア」「カジミエーシュ」「イベリア」「ドッソレス（ボリバル）」「炎国」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/Dw339JSTVxU?si=O7zi_z4_DFq46o4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|現代国家情勢「クルビア」「ラテラーノ」「イベリア」「エーギル」、種族「サンクタ」「ティカズ」「リーベリ」、災厄「大いなる静謐（シーボーン）」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/IV2zU4aDJww?si=I33F3F8_q28M-QyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|テラ史「原初の天災」「諸王の王」「谷のドラコ」「ハランドゥハン」「ペガサス」「神民」「ヒッポグリフ」「ウルサス皇帝」「植民地ボリバル」「クルビア独立」「レム・ビリトン鉱業連合」「四皇会戦（ガリア・リターニア戦争）」「ウルサス大反乱」「巫王ヘーアクンフツホルン」「双子の女帝」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/xyHMJWrFnM4?si=80LIljKvPRwBSj0X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|クルビアの「ライン生命」「炎魔実験」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq58msQtmX0?si=tpH_1c_NVq_bFatz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|シラクーザの「ファミリー」「ミズ・シチリア」「最後のテキサス」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/X5y_lgcCSSU?si=HMtPT0Hmufe3FTGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|炎国の「真龍」「巨獣狩り」「歳」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/DXRjJNpJ8VM?si=v9A43cegU9d__Haz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|炎国の「チョンユエ（歳）」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/iml_kYACQ1Q?si=c7vS_gXJC4EVgR3p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|ヴィクトリアの「谷のドラコ」「ターラー」「獅子（アスラン）」「ダブリン」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/vHUJ2cBT8SE?si=VxnrAQE1A64xXM_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|「ミュルジス（エルフ）」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/ncXAcVTetR8?si=NJTugJyfkRmks-LV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|「ラテラーノ」「サンクタ」「戒律と銃」「ティカズ（サルカズ）」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/vHsaXIakSVc?si=093uyZ1V4VdQR54_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|火山、「エイヤフィヤトラ」「ドリー」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/UD6a_i3iY7A?si=rrvTh8n9505Fx9n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|クルビアの「マイレンダー探索協会」、サーミの「氷原」「雪祭司」「悪魔」「皇帝の利刃」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/jwRBycq1gA4?si=wzFZu0t6XkmsoTCz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|リターニアのアーツ|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/ycpDIHQ-IlE?si=wpcN8qc2cJUnxIcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|「ヴィルトゥオーサ」「ラテラーノ」「シーボーン」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/5AlUrlkQxzU?si=BqhLXZh85Jb4Nu48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|イェラグの「エンシオディス・シルバーアッシュ」「ノーシス」「エンヤ」「黒騎士デーゲンブレヒャー」「イェラガンド」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/LTuq2NhGkZw?si=29FwKFTON_1XX2yC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|炎国の「神農」「シュウ（歳）」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/hRUkdNtSuaw?si=mPewx2mhbncT5P-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|サルゴンの「ルガサルグス（シャア、諸王の王）」「ハランドゥハン」「ぺぺ」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/zN1NehzurbI?si=Z21Kgj3_6-qn43pX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|「サルカズ」「十王庭」「テレジア」「ウィシャデル」「ロゴス」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/96qlsI0023I?si=SAnO5AfA_A9lrMG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|エーギルの超科学文明|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/sjpZklC2Ybc?si=-ZKKGKef2VU00OTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|サルゴンの「ぺぺ（史官）」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/S6rVcG_jad4?si=hsSl-A-5g3qI3PY7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|ヴィクトリアの「グラスゴー」「アレクサンドリナ・ヴィーナ・ヴィクトリア」「ガウェイン」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/tT6CsD0sbNU?si=XcmqnCVNsQUADVka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|シラクーザの「群狼」|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/OP4iPF3GO6Y?si=Z878hlc5OTWKvGkf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>|「獣主」「ドリー」「エンペラー」「サーミ」「ガウェイン」「ダック卿」「カエサル（群狼）」|
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yP91VOoBoJU?si=hzGVriK5hIDGef3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dTt6sU00jxI?si=kjqTEluGwzHk2HdO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dw339JSTVxU?si=O7zi_z4_DFq46o4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IV2zU4aDJww?si=I33F3F8_q28M-QyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -98,7 +47,7 @@ sidebar_position: 4
 　ロドス・アイランド製薬。通称ロドスと呼ばれる、アークナイツの主人公たちが所属する、鉱石病の研究において最先端の製薬会社です。――というのは表向きの話であり、実態は感染者に関わる様々な問題の解決を目指す専門組織です。  
 　多くの感染者が所属しており、医療はもちろん、紛争解決のための戦闘員も数多く存在します。各国に駐在員という形で派遣されているメンバーもおり、その中には国家の要人なども含まれます。  
 　ロドス・アイランドはロドスが所有する小さな移動都市の名前でもあり、この本艦を中心に、テラの各地に事務所を展開しています。  
-　1031年に発足したバベルという組織を前身としていますが、ロドスとなったのは1094年であり、テラの歴史の中では新参者で知名度はそれほど高くありません（ゲーム原作の第1部は1096～1097年の出来事を描いています）。
+　テラ歴1031年に発足したバベルという組織を前身としていますが、ロドスとなったのは1094年であり、テラの歴史の中では新参者で知名度はそれほど高くありません（ゲーム原作の第1部は1096～1097年の出来事を描いています）。
 
 :::note
 ## テラにおける銃器
