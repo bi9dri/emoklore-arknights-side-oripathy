@@ -22,6 +22,7 @@ https://bsky.app/profile/bidri.bsky.social
 [https://x.com/bidri__](https://x.com/bidri__)
 
 #### 2025/5/28
+- 〈アーツ〉技能の【リミットブレイク】を追加
 - アークナイツの世界観について追記
 - 軽微な表現の修正
 
