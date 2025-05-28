@@ -180,8 +180,8 @@ export default function Converter(): ReactNode {
 						onChange={(e) => setConvertType(e.target.value as ConvertType)}
 					>
 						<option value="normal">通常</option>
-						<option value="sarkaz-mercenary">サルカズ傭兵</option>
-						<option value="seaborn-abyssal">アビサル</option>
+						<option value="sarkaz-mercenary">サルカズ傭兵（未対応）</option>
+						<option value="seaborn-abyssal">アビサル（未対応）</option>
 					</select>
 					<button
 						type="button"
